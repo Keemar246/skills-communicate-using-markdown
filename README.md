@@ -10,6 +10,9 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
+# H1
+## H2
+### H3
 </header>
 <!--
   <<< Author notes: Step 1 >>>
