@@ -15,7 +15,9 @@ num = 3 + 5
 print num
 ```
 
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
 
 
 
@@ -24,4 +26,6 @@ print num
 
 Adding headers to this 
 Added an image
+Added code
+Added a task list
 
